@@ -1,3 +1,5 @@
+.mypy_cache
+haarcascade_frontalface_default.xml
 Dataset.tar.bz2
 Dataset
 env
